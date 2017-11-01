@@ -1,10 +1,8 @@
 '''
-elif can be used multiple times
-both elif and esle are idented the same as the original if
-when codding alway allways use variable names that make sence to you!!!
-this helps you solve problems by understanding exactly what each thing is
-range(0,2) gives range of numbers from 0 to 2
-the first pic in a list of any kind is 0 not 1
+would it not be smarter to edit the code in an some ide so you can actually test run it before opening
+
+goals for this code is to make it far shorter than it is currently seems pretty clunky now
+
 '''
 
 from random import randint
